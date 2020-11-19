@@ -1,0 +1,7 @@
+@import './styles-header/styles-header.css';
+@import './styles-main/styles-main.css';
+@import './styles-footer/styles-footer.css';
+
+body{
+  margin: 0;
+}
