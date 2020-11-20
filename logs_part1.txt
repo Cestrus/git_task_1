@@ -1,0 +1,37 @@
+6b88c45 (HEAD -> EPMRDUASTT-425) HEAD@{0}: merge develop: Merge made by the 'recursive' strategy.
+0b6b379 (master) HEAD@{1}: checkout: moving from EPMRDUASTT-425_2 to EPMRDUASTT-425
+7e336c2 (EPMRDUASTT-425_2) HEAD@{2}: merge develop: Merge made by the 'recursive' strategy.
+7ce66ee HEAD@{3}: checkout: moving from EPMRDUASTT-425_1 to EPMRDUASTT-425_2
+65e29c2 (EPMRDUASTT-425_1) HEAD@{4}: merge develop: Merge made by the 'recursive' strategy.
+3a98ea3 HEAD@{5}: checkout: moving from develop to EPMRDUASTT-425_1
+18ee94a (develop) HEAD@{6}: merge EPMRDUASTT-425_2: Merge made by the 'recursive' strategy.
+07d6b0b HEAD@{7}: merge EPMRDUASTT-425_1: Merge made by the 'recursive' strategy.
+d9bbc63 HEAD@{8}: checkout: moving from EPMRDUASTT-425_2 to develop
+7ce66ee HEAD@{9}: commit: Add link to main.css into index.html
+ad10ee6 HEAD@{10}: commit: Add styles
+3a98ea3 HEAD@{11}: checkout: moving from EPMRDUASTT-425_1 to EPMRDUASTT-425_2
+3a98ea3 HEAD@{12}: checkout: moving from EPMRDUASTT-425 to EPMRDUASTT-425_1
+0b6b379 (master) HEAD@{13}: checkout: moving from EPMRDUASTT-425_1 to EPMRDUASTT-425
+:...skipping...
+6b88c45 (HEAD -> EPMRDUASTT-425) HEAD@{0}: merge develop: Merge made by the 'recursive' strategy.
+0b6b379 (master) HEAD@{1}: checkout: moving from EPMRDUASTT-425_2 to EPMRDUASTT-425
+7e336c2 (EPMRDUASTT-425_2) HEAD@{2}: merge develop: Merge made by the 'recursive' strategy.      
+7ce66ee HEAD@{3}: checkout: moving from EPMRDUASTT-425_1 to EPMRDUASTT-425_2
+65e29c2 (EPMRDUASTT-425_1) HEAD@{4}: merge develop: Merge made by the 'recursive' strategy.      
+3a98ea3 HEAD@{5}: checkout: moving from develop to EPMRDUASTT-425_1
+18ee94a (develop) HEAD@{6}: merge EPMRDUASTT-425_2: Merge made by the 'recursive' strategy.      
+07d6b0b HEAD@{7}: merge EPMRDUASTT-425_1: Merge made by the 'recursive' strategy.
+d9bbc63 HEAD@{8}: checkout: moving from EPMRDUASTT-425_2 to develop
+7ce66ee HEAD@{9}: commit: Add link to main.css into index.html
+ad10ee6 HEAD@{10}: commit: Add styles
+3a98ea3 HEAD@{11}: checkout: moving from EPMRDUASTT-425_1 to EPMRDUASTT-425_2
+3a98ea3 HEAD@{12}: checkout: moving from EPMRDUASTT-425 to EPMRDUASTT-425_1
+0b6b379 (master) HEAD@{13}: checkout: moving from EPMRDUASTT-425_1 to EPMRDUASTT-425
+3a98ea3 HEAD@{14}: commit: Add sources to img and script to index.html
+dc8e36c HEAD@{15}: commit: Add images and script.js
+d9bbc63 HEAD@{16}: checkout: moving from develop to EPMRDUASTT-425_1
+d9bbc63 HEAD@{17}: commit: Create index.html
+0b6b379 (master) HEAD@{18}: checkout: moving from EPMRDUASTT-425 to develop
+0b6b379 (master) HEAD@{19}: checkout: moving from develop to EPMRDUASTT-425
+0b6b379 (master) HEAD@{20}: checkout: moving from master to develop
+0b6b379 (master) HEAD@{21}: commit (initial): Initial project
